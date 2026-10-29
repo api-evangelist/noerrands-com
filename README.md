@@ -64,5 +64,137 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-noerrands-com is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://noerrands.com/
+No Errands offers an AI‑driven service platform that lets developers programmatically request real‑world tasks such as mailing letters or postcards, sending faxes, booking appointments, reserving restaurant tables, creating shipping or return labels, printing and posting photos, sending greeting cards, arranging same‑day courier deliveries, and obtaining document signatures. Users obtain an API key, embed a single prompt into their AI agent, and the platform handles the logistics, providing a seamless bridge between digital assistants and physical services. This unified API abstracts complex physical workflows into simple programmable calls, empowering AI‑enabled applications to act in the real world without manual handling.
+
+**Areas:** Company · AI · Automation · Productivity · Messaging
+
+## noerrands-com on APIs.io
+
+Everything profiled for noerrands-com is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/noerrands-com/](https://apis.io/providers/noerrands-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (8)
+
+- [noerrands-com Booking API](https://apis.io/apis/noerrands-com/noerrands-com-booking-api/) — Appointments
+- [noerrands-com Cards API](https://apis.io/apis/noerrands-com/noerrands-com-cards-api/) — Greeting cards
+- [noerrands-com Fax API](https://apis.io/apis/noerrands-com/noerrands-com-fax-api/) — Faxing
+- [noerrands-com Mail API](https://apis.io/apis/noerrands-com/noerrands-com-mail-api/) — Physical mail
+- [noerrands-com Prints API](https://apis.io/apis/noerrands-com/noerrands-com-prints-api/) — Photo prints, canvas, custom T-shirts and mugs
+- [noerrands-com Ship API](https://apis.io/apis/noerrands-com/noerrands-com-ship-api/) — Shipping labels, pickups and tracking
+- [noerrands-com Sign API](https://apis.io/apis/noerrands-com/noerrands-com-sign-api/) — Electronic signature envelopes
+- [noerrands-com Tables API](https://apis.io/apis/noerrands-com/noerrands-com-tables-api/) — Restaurant table requests
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Noerrands Com Agentic Access](https://apis.io/agentic-access/noerrands-com/noerrands-com-agentic-access/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Noerrands Com Context](https://apis.io/jsonld/noerrands-com/noerrands-com-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [noerrands-com API Rules](https://apis.io/rules/noerrands-com/noerrands-com-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Noerrands Com Authentication](https://apis.io/security/noerrands-com/noerrands-com-authentication/)
+- [Noerrands Com Domain Security](https://apis.io/security/noerrands-com/noerrands-com-domain-security/)
+
+#### OAuth scopes (1)
+
+The permissions the API asks for.
+
+- [Noerrands Com Scopes](https://apis.io/scopes/noerrands-com/noerrands-com-scopes/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Noerrands Com Plans Pricing](https://apis.io/plans/noerrands-com/noerrands-com-plans-pricing/)
+
+#### Rate limits (1)
+
+Published request limits.
+
+- [Noerrands Com Rate Limits](https://apis.io/rate-limits/noerrands-com/noerrands-com-rate-limits/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://noerrands.com/)
+- [Documentation](https://noerrands.com/docs/)
+- [Getting started](https://noerrands.com/get-key/)
+- [API reference](https://noerrands.com/docs/)
+- [Pricing](https://noerrands.com/pricing/)
+- [Sign up](https://noerrands.com/get-key/)
+- [Support](https://noerrands.com/support/)
+- [Terms of service](https://noerrands.com/terms/)
+- [Privacy policy](https://noerrands.com/privacy/)
+
+## API Evangelist rating
+
+**Kin Score 57.8** — strong · rubric 0.25.0 · scored 2026-10-29
+
+| Facet | Score |
+|---|---|
+| Discoverability | 70.0 |
+| Contract quality | 55.9 |
+| Contract governance | 79.1 |
+| Operational transparency | 28.4 |
+| Developer ergonomics | 61.2 |
+| Access clarity | 44.7 |
+
+**Agent readiness 58.7** — agent-native
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | verified |
+| Error Semantics | verified |
+| OpenAPI Examples | partial |
+| Rate Limit Signal | documented (partial credit) |
+| Event Surface Described | — |
+| Agent Skills | unknown |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | yes |
+| Agentic Commerce | — |
+| Pagination Ratio | partial |
+| Operation Distinctiveness | distinct |
+
+**Regulatory alignment 31.8** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/noerrands-com/](https://apis.io/providers/noerrands-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for noerrands-com: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/noerrands-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
